@@ -1,0 +1,8 @@
+{
+  "name": "Deel",
+  "description": "A high-speed real-time betting and gaming platform featuring Aviator, Ludo, and a robust Admin Command Center with RTP control and wallet management.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
